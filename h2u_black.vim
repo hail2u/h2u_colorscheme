@@ -54,8 +54,8 @@ hi ErrorMsg        guifg=#ffffff  guibg=#ff6666  gui=bold
 hi WildMenu        guifg=#000000  guibg=#ccee88  gui=NONE
 " hi Question
 
-hi Search          guifg=NONE     guibg=#ff9933  gui=NONE
-hi IncSearch       guifg=NONE     guibg=#334466  gui=NONE
+hi Search          guifg=NONE     guibg=#ffff00  gui=NONE
+hi IncSearch       guifg=NONE     guibg=#777711  gui=NONE
 
 hi Title           guifg=#ffffee  guibg=NONE     gui=bold
 
