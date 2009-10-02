@@ -24,7 +24,7 @@ hi CursorColumn    guifg=NONE     guibg=#444444  gui=NONE
 hi CursorLine      guifg=NONE     guibg=#444444  gui=NONE
 hi MatchParen      guifg=NONE     guibg=#66ff66  gui=NONE
 
-hi NonText         guifg=#444444  guibg=#111111  gui=NONE
+hi NonText         guifg=#666666  guibg=#000000  gui=NONE
 hi SpecialKey      guifg=#999999  guibg=#333333  gui=NONE
 
 hi Visual          guifg=NONE     guibg=#334466  gui=NONE
@@ -32,7 +32,7 @@ hi Visual          guifg=NONE     guibg=#334466  gui=NONE
 
 hi LineNr          guifg=#666666  guibg=#000000  gui=NONE
 
-hi StatusLine      guifg=#cccccc  guibg=#333333  gui=NONE
+hi StatusLine      guifg=#cccccc  guibg=#223344  gui=NONE
 hi StatusLineNC    guifg=#666666  guibg=#333333  gui=NONE
 
 hi VertSplit       guifg=#666666  guibg=#333333  gui=NONE
@@ -45,19 +45,19 @@ hi PmenuSel        guifg=#000000  guibg=#ccee88  gui=NONE
 hi PmenuSbar       guifg=#000000  guibg=#ffffff  gui=NONE
 hi PmenuThumb      guifg=#ffffff  guibg=#bbbbbb  gui=NONE
 
-" hi SignColumn
-
 hi ModeMsg         guifg=#000000  guibg=#ccee88  gui=bold
 hi MoreMsg         guifg=#000000  guibg=#88ccee  gui=bold
 hi WarningMsg      guifg=#ffffff  guibg=#ff6666  gui=bold
 hi ErrorMsg        guifg=#ffffff  guibg=#ff6666  gui=bold
 hi WildMenu        guifg=#000000  guibg=#ccee88  gui=NONE
-" hi Question
+hi Question        guifg=#88ccee  guibg=NONE     gui=NONE
 
-hi Search          guifg=NONE     guibg=#ffff00  gui=NONE
-hi IncSearch       guifg=NONE     guibg=#777711  gui=NONE
+hi Search          guifg=NONE     guibg=#666666  gui=NONE
+hi IncSearch       guifg=#000000  guibg=#ffff00  gui=NONE
 
 hi Title           guifg=#ffffee  guibg=NONE     gui=bold
+
+" hi SignColumn
 
 " hi Directory
 
