@@ -1,7 +1,7 @@
-" Vim color file
-" Maintainer:	Kyo Nagashima <kyo@hail2u.net>
-" URL:		http://twitter.com/hell2u
-" Version:	11.4.10
+" Maintainer: Kyo Nagashima <kyo@hail2u.net>
+" URL:        http://hail2u.net/
+" Version:    12.2.14
+" License:    http://hail2u.mit-license.org/2010
 
 
 set background=dark
@@ -33,10 +33,10 @@ hi Folded        guifg=#99ccff  guibg=#333333  gui=NONE
 hi FoldColumn    guifg=#99ccff  guibg=#666666  gui=NONE
 hi SignColumn    guifg=#99ccff  guibg=#666666  gui=NONE
 hi IncSearch     guifg=#000000  guibg=#ff9900  gui=NONE
-hi LineNr        guifg=#666666  guibg=#222222  gui=NONE
+hi LineNr        guifg=#444444  guibg=#222222  gui=NONE
 hi MatchParen    guifg=#000000  guibg=#ff9900  gui=bold
 hi ModeMsg       guifg=#6699cc  guibg=NONE     gui=NONE
-hi MoreMsg       guifg=#000000  guibg=#99ccff  gui=NONE
+hi MoreMsg       guifg=#99ff66  guibg=NONE     gui=NONE
 hi NonText       guifg=#666666  guibg=NONE     gui=NONE
 hi Normal        guifg=#ffffff  guibg=#222222  gui=NONE
 hi Pmenu         guifg=#999999  guibg=#333333  gui=NONE
@@ -63,11 +63,11 @@ hi WildMenu      guifg=#000000  guibg=#99ccff  gui=NONE
 
 
 " Syntax
-hi Comment       guifg=#666666  guibg=NONE     gui=NONE
-hi Constant      guifg=#99ff33  guibg=NONE     gui=NONE
-hi Character     guifg=#99ccff  guibg=NONE     gui=NONE
+hi Comment       guifg=#999999  guibg=NONE     gui=NONE
+hi Constant      guifg=#99ff66  guibg=NONE     gui=NONE
+hi Character     guifg=#ff9999  guibg=NONE     gui=NONE
 hi Number        guifg=#ff99ff  guibg=NONE     gui=NONE
-hi Identifier    guifg=#6699cc  guibg=NONE     gui=NONE
+hi Identifier    guifg=#ccccff  guibg=NONE     gui=NONE
 hi Statement     guifg=#336699  guibg=NONE     gui=NONE
 hi PreProc       guifg=#99ccff  guibg=NONE     gui=NONE
 hi Type          guifg=#ffff99  guibg=NONE     gui=NONE
