@@ -1,6 +1,8 @@
+" Vim color file
+" Name:       h2u_dark
 " Maintainer: Kyo Nagashima <kyo@hail2u.net>
 " URL:        http://hail2u.net/
-" Version:    12.2.14
+" Version:    12.2.21
 " License:    http://hail2u.mit-license.org/2010
 
 
@@ -22,6 +24,7 @@ hi Cursor        guifg=#000000  guibg=#99ccff  gui=NONE
 hi CursorIM      guifg=#ffffff  guibg=#ff6666  gui=NONE
 hi CursorColumn  guifg=NONE     guibg=#000000  gui=NONE
 hi CursorLine    guifg=NONE     guibg=#000000  gui=NONE
+hi CursorLineNr  guifg=#444444  guibg=#000000  gui=NONE
 hi Directory     guifg=#99ccff  guibg=NONE     gui=NONE
 hi DiffAdd       guifg=NONE     guibg=#331166  gui=NONE
 hi DiffChange    guifg=NONE     guibg=#443344  gui=NONE

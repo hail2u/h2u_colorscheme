@@ -1,11 +1,11 @@
+" Vim color file
+" Name:       h2u_white
 " Maintainer: Kyo Nagashima <kyo@hail2u.net>
 " URL:        http://hail2u.net/
-" Version:    12.4.16
+" Version:    12.4.21
 " License:    http://hail2u.mit-license.org/2012
 
-
 set background=light
-
 hi clear
 
 if exists("syntax_on")
@@ -22,6 +22,7 @@ hi Cursor        guifg=#ffffff  guibg=#333333  gui=NONE
 hi CursorColumn  guifg=NONE     guibg=#ddeeff  gui=NONE
 hi CursorIM      guifg=#ffffff  guibg=#ff3333  gui=NONE
 hi CursorLine    guifg=NONE     guibg=#ddeeff  gui=NONE
+hi CursorLineNr  guifg=#999999  guibg=#ddeeff  gui=NONE
 hi Directory     guifg=#6666cc  guibg=NONE     gui=NONE
 hi DiffAdd       guifg=NONE     guibg=#6666cc  gui=NONE
 hi DiffChange    guifg=NONE     guibg=#9999ff  gui=NONE
