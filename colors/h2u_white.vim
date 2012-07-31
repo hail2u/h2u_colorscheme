@@ -57,7 +57,7 @@ hi TabLine       guifg=#333333  guibg=#eeeeee  gui=underline
 hi TabLineFill   guifg=#333333  guibg=#eeeeee  gui=underline
 hi TabLineSel    guifg=#333333  guibg=#ffffff  gui=NONE
 hi Title         guifg=#cc6600  guibg=NONE     gui=NONE
-hi Visual        guifg=NONE     guibg=#ccddff  gui=NONE
+hi Visual        guifg=NONE     guibg=#ffeedd  gui=NONE
 " hi VisualNOS
 hi WarningMsg    guifg=#cc6666  guibg=NONE     gui=NONE
 hi WildMenu      guifg=#000000  guibg=#3399ff  gui=NONE
