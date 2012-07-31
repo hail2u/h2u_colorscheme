@@ -74,6 +74,7 @@ hi Identifier    guifg=#ccccff  guibg=NONE     gui=NONE
 hi Statement     guifg=#336699  guibg=NONE     gui=NONE
 hi PreProc       guifg=#99ccff  guibg=NONE     gui=NONE
 hi Type          guifg=#ffff99  guibg=NONE     gui=NONE
+hi StorageClass  guifg=#99cc99  guibg=NONE     gui=NONE
 hi Special       guifg=#ff9933  guibg=NONE     gui=NONE
 hi Underlined    guifg=NONE     guibg=NONE     gui=underline
 " hi Ignore
