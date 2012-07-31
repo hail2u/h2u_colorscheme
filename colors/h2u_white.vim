@@ -72,7 +72,7 @@ hi Identifier    guifg=#6666cc  guibg=NONE     gui=NONE
 hi Statement     guifg=#3399ff  guibg=NONE     gui=NONE
 hi PreProc       guifg=#0066cc  guibg=NONE     gui=NONE
 hi Type          guifg=#ff9933  guibg=NONE     gui=NONE
-hi StorageClass  guifg=#339933  guibg=NONE     gui=NONE
+hi StorageClass  guifg=#66cc00  guibg=NONE     gui=NONE
 hi Special       guifg=#cc6600  guibg=NONE     gui=NONE
 hi Underlined    guifg=NONE     guibg=NONE     gui=underline
 " hi Ignore
