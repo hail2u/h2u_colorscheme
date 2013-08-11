@@ -2,7 +2,7 @@
 " Name:       h2u_white
 " Maintainer: Kyo Nagashima <kyo@hail2u.net>
 " URL:        http://hail2u.net/
-" Version:    12.4.21
+" Version:    13.8.12
 " License:    http://hail2u.mit-license.org/2012
 
 set background=light
@@ -16,8 +16,8 @@ let colors_name = "h2u_white"
 
 
 " General
-" hi ColorColumn
-" hi Conceal
+hi ColorColumn   guifg=NONE     guibg=#eeeeee  gui=NONE
+hi Conceal       guifg=#cccccc  guibg=NONE     gui=NONE
 hi Cursor        guifg=#ffffff  guibg=#333333  gui=NONE
 hi CursorColumn  guifg=NONE     guibg=#ddeeff  gui=NONE
 hi CursorIM      guifg=#ffffff  guibg=#ff3333  gui=NONE
@@ -56,7 +56,7 @@ hi StatusLineNC  guifg=#999999  guibg=#ccddee  gui=NONE
 hi TabLine       guifg=#333333  guibg=#eeeeee  gui=underline
 hi TabLineFill   guifg=#333333  guibg=#eeeeee  gui=underline
 hi TabLineSel    guifg=#333333  guibg=#ffffff  gui=NONE
-hi Title         guifg=#cc6600  guibg=NONE     gui=NONE
+hi Title         guifg=#cc6600  guibg=NONE     gui=bold
 hi Visual        guifg=NONE     guibg=#ffeedd  gui=NONE
 " hi VisualNOS
 hi WarningMsg    guifg=#cc6666  guibg=NONE     gui=NONE
@@ -81,6 +81,3 @@ hi Todo          guifg=#ff3333  guibg=NONE     gui=underline
 
 hi link  Boolean  Character
 hi link  Float    Number
-
-" HTML
-hi link htmlTag Identifier
