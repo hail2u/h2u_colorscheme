@@ -38,7 +38,7 @@ hi LineNr        guifg=#999999  guibg=#eeeeee  gui=NONE
 hi MatchParen    guifg=#000000  guibg=#ff9933  gui=bold
 hi ModeMsg       guifg=#3399ff  guibg=NONE     gui=NONE
 hi MoreMsg       guifg=#339933  guibg=NONE     gui=NONE
-hi NonText       guifg=#cccccc  guibg=NONE     gui=NONE
+hi NonText       guifg=#aaaaaa  guibg=NONE     gui=NONE
 hi Normal        guifg=#000000  guibg=#ffffff  gui=NONE
 hi Pmenu         guifg=#666666  guibg=#eeeeee  gui=NONE
 hi PmenuSel      guifg=#000000  guibg=#ddeeff  gui=NONE
@@ -46,7 +46,7 @@ hi PmenuSbar     guifg=#000000  guibg=#ccddee  gui=NONE
 hi PmenuThumb    guifg=#000000  guibg=#ddeeff  gui=NONE
 hi Question      guifg=#3399ff  guibg=NONE     gui=NONE
 hi Search        guifg=#000000  guibg=#ffff00  gui=NONE
-hi SpecialKey    guifg=#cccccc  guibg=#ffffff  gui=NONE
+hi SpecialKey    guifg=#aaaaaa  guibg=#ffffff  gui=NONE
 hi SpellBad      guifg=NONE     guibg=NONE     gui=undercurl  guisp=#cc3333
 hi SpellCap      guifg=NONE     guibg=NONE     gui=undercurl  guisp=#9999ff
 hi SpellLocal    guifg=NONE     guibg=NONE     gui=undercurl  guisp=#339933
