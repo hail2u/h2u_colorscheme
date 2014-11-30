@@ -38,7 +38,7 @@ hi LineNr        guifg=#999999  guibg=#eeeeee  gui=NONE
 hi MatchParen    guifg=#000000  guibg=#ff9933  gui=bold
 hi ModeMsg       guifg=#3399ff  guibg=NONE     gui=NONE
 hi MoreMsg       guifg=#339933  guibg=NONE     gui=NONE
-hi NonText       guifg=#aaaaaa  guibg=NONE     gui=NONE
+hi NonText       guifg=#cccccc  guibg=NONE     gui=NONE
 hi Normal        guifg=#000000  guibg=#ffffff  gui=NONE
 hi Pmenu         guifg=#666666  guibg=#eeeeee  gui=NONE
 hi PmenuSel      guifg=#000000  guibg=#ddeeff  gui=NONE
