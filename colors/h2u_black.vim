@@ -1,7 +1,6 @@
 " Vim color file
 " Name:       h2u_black
-" Maintainer: Kyo Nagashima <kyo@hail2u.net>
-" URL:        http://hail2u.net/
+" Maintainer: Kyo Nagashima <hail2u@gmail.com> (https://kyonagashima.com/)
 " Version:    12.4.21
 " License:    http://hail2u.mit-license.org/2010
 
